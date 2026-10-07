@@ -1,0 +1,325 @@
+regdstate,regddname,state_norm,dist_norm,state_code,dist_code,state_name,district_name,size,match_type
+Uttar Pradesh,Agra,uttar pradesh,agra,13,30,Uttar Pradesh,Agra,27.0,exact_norm
+Gujarat,Ahmadabad,gujarat,ahmedabad,17,13,Gujarat,Ahmedabad,27.0,exact_norm
+Maharashtra,Ahmadnagar,maharashtra,ahmednagar,01,26,Maharashtra,Ahmednagar,27.0,exact_norm
+Rajasthan,Ajmer,rajasthan,ajmer,09,14,Rajasthan,Ajmer,27.0,exact_norm
+Maharashtra,Akola,maharashtra,akola,01,05,Maharashtra,Akola,27.0,exact_norm
+Kerala,Alappuzha,kerala,alappuzha,04,06,Kerala,Alappuzha,27.0,exact_norm
+Uttar Pradesh,Aligarh,uttar pradesh,aligarh,13,43,Uttar Pradesh,Aligarh,27.0,exact_norm
+Uttar Pradesh,Allahabad,uttar pradesh,allahabad,13,01,Uttar Pradesh,Allahabad,27.0,exact_norm
+Uttarakhand,Almora,uttarakhand,almora,15,07,Uttarakhand,Almora,27.0,exact_norm
+Rajasthan,Alwar,rajasthan,alwar,09,02,Rajasthan,Alwar,27.0,exact_norm
+Haryana,Ambala,haryana,ambala,14,03,Haryana,Ambala,27.0,exact_norm
+Uttar Pradesh,Ambedkar Nagar,uttar pradesh,ambedkar nagar,13,15,Uttar Pradesh,Ambedkar Nagar,27.0,exact_norm
+Maharashtra,Amravati,maharashtra,amravati,01,07,Maharashtra,Amravati,27.0,exact_norm
+Gujarat,Amreli,gujarat,amreli,17,17,Gujarat,Amreli,27.0,exact_norm
+Gujarat,Anand,gujarat,anand,17,18,Gujarat,Anand,27.0,exact_norm
+Andhra Pradesh,Anantapur,andhra pradesh,anantapur,02,02,Andhra Pradesh,Ananthapur,27.0,manual_map
+Maharashtra,Aurangabad (MAH),maharashtra,aurangabad mah,01,19,Maharashtra,Aurangabad,27.0,fuzzy_contain
+Karnataka,Bagalkot,karnataka,bagalkot,03,02,Karnataka,BAGALKOT,27.0,exact_norm
+Uttar Pradesh,Baghpat,uttar pradesh,baghpat,13,45,Uttar Pradesh,Baghpat,27.0,exact_norm
+Uttar Pradesh,Bahraich,uttar pradesh,bahraich,13,07,Uttar Pradesh,Bahraich,27.0,exact_norm
+Odisha,Balangir,odisha,balangir,11,17,Orissa,Balangir,27.0,exact_norm
+Odisha,Baleshwar,odisha,baleshwar,11,05,Orissa,Balasore,27.0,manual_map
+Gujarat,Banas Kantha,gujarat,banas kantha,17,19,Gujarat,Banaskanth at Palanpur,27.0,manual_map
+Karnataka,Bangalore,karnataka,bangalore,03,20,Karnataka,BENGALURU,27.0,exact_norm
+Karnataka,Bangalore Rural,karnataka,bangalore,03,20,Karnataka,BENGALURU,27.0,exact_norm
+West Bengal,Bankura,west bengal,bankura,16,19,West Bengal,Bankura,27.0,exact_norm
+Rajasthan,Banswara,rajasthan,banswara,09,25,Rajasthan,Banswara,27.0,exact_norm
+Uttar Pradesh,Bara Banki,uttar pradesh,bara banki,13,36,Uttar Pradesh,Barabanki,27.0,manual_map
+Rajasthan,Baran,rajasthan,baran,09,12,Rajasthan,Baran,27.0,exact_norm
+West Bengal,Barddhaman,west bengal,barddhaman,16,18,West Bengal,Purba Bardhaman,27.0,manual_map
+Uttar Pradesh,Bareilly,uttar pradesh,bareilly,13,02,Uttar Pradesh,Bareilly,27.0,exact_norm
+Uttar Pradesh,Basti,uttar pradesh,basti,13,46,Uttar Pradesh,Basti,27.0,exact_norm
+Karnataka,Belgaum,karnataka,belgaum,03,01,Karnataka,BELAGAVI,27.0,exact_norm
+Karnataka,Bellary,karnataka,bellary,03,12,Karnataka,BALLARI,27.0,exact_norm
+Madhya Pradesh,Betul,madhya pradesh,betul,23,37,Madhya Pradesh,Betul,27.0,exact_norm
+Odisha,Bhadrak,odisha,bhadrak,11,18,Orissa,Bhadrak,27.0,exact_norm
+Bihar,Bhagalpur,bihar,bhagalpur,08,34,Bihar,Bhagalpur,27.0,exact_norm
+Rajasthan,Bharatpur,rajasthan,bharatpur,09,13,Rajasthan,Bharatpur,27.0,exact_norm
+Gujarat,Bharuch,gujarat,bharuch,17,20,Gujarat,Bharuch,27.0,exact_norm
+Gujarat,Bhavnagar,gujarat,bhavnagar,17,21,Gujarat,Bhavnagar,27.0,exact_norm
+Rajasthan,Bhilwara,rajasthan,bhilwara,09,31,Rajasthan,Bhilwara,27.0,exact_norm
+Madhya Pradesh,Bhind,madhya pradesh,bhind,23,29,Madhya Pradesh,Bhind,27.0,exact_norm
+Haryana,Bhiwani,haryana,bhiwani,14,04,Haryana,Bhiwani,27.0,exact_norm
+Madhya Pradesh,Bhopal,madhya pradesh,bhopal,23,50,Madhya Pradesh,Bhopal,27.0,exact_norm
+Maharashtra,Bid,maharashtra,bid,01,27,Maharashtra,Beed,27.0,manual_map
+Karnataka,Bidar,karnataka,bidar,03,05,Karnataka,BIDAR,27.0,exact_norm
+Karnataka,Bijapur (KAR),karnataka,bijapur kar,03,03,Karnataka,VIJAYAPURA,27.0,fuzzy_contain
+Uttar Pradesh,Bijnor,uttar pradesh,bijnor,13,47,Uttar Pradesh,Bijnor,27.0,exact_norm
+Rajasthan,Bikaner,rajasthan,bikaner,09,06,Rajasthan,Bikaner,27.0,exact_norm
+Chhattisgarh,Bilaspur (CTG),chhattisgarh,bilaspur ctg,18,02,Chhattisgarh,Bilaspur,27.0,fuzzy_contain
+Jharkhand,Bokaro,jharkhand,bokaro,07,01,Jharkhand,Bokaro,27.0,exact_norm
+Assam,Bongaigaon,assam,bongaigaon,06,09,Assam,Bongaigaon,27.0,exact_norm
+Uttar Pradesh,Budaun,uttar pradesh,budaun,13,18,Uttar Pradesh,Budaun,27.0,exact_norm
+Uttar Pradesh,Bulandshahr,uttar pradesh,bulandshahr,13,48,Uttar Pradesh,Bulandshahr,27.0,exact_norm
+Maharashtra,Buldana,maharashtra,buldana,01,04,Maharashtra,Buldhana,27.0,manual_map
+Assam,Cachar,assam,cachar,06,13,Assam,Cachar,27.0,exact_norm
+NCT of Delhi,Central Delhi,delhi,central delhi,26,08,Delhi,Central,27.0,fuzzy_contain
+Uttar Pradesh,Chandauli,uttar pradesh,chandauli,13,75,Uttar Pradesh,Chandauli,27.0,exact_norm
+Maharashtra,Chandrapur,maharashtra,chandrapur,01,13,Maharashtra,Chandrapur,27.0,exact_norm
+Tamil Nadu,Chennai,tamil nadu,chennai,10,13,Tamil Nadu,Chennai,27.0,exact_norm
+Madhya Pradesh,Chhindwara,madhya pradesh,chhindwara,23,20,Madhya Pradesh,Chhindwara,27.0,exact_norm
+Karnataka,Chikmagalur,karnataka,chikmagalur,03,17,Karnataka,CHIKKAMAGALURU,27.0,exact_norm
+Karnataka,Chitradurga,karnataka,chitradurga,03,13,Karnataka,CHITRADURGA,27.0,exact_norm
+Rajasthan,Chittaurgarh,rajasthan,chittaurgarh,09,30,Rajasthan,Chittorgarh,27.0,manual_map
+Andhra Pradesh,Chittoor,andhra pradesh,chittoor,02,03,Andhra Pradesh,Chittoor,27.0,exact_norm
+Tamil Nadu,Coimbatore,tamil nadu,coimbatore,10,18,Tamil Nadu,Coimbatore,27.0,exact_norm
+Tamil Nadu,Cuddalore,tamil nadu,cuddalore,10,20,Tamil Nadu,Cuddalore,27.0,exact_norm
+Odisha,Cuttack,odisha,cuttack,11,01,Orissa,Cuttack,27.0,exact_norm
+West Bengal,Dakshin Dinajpur,west bengal,dakshin dinajpur,16,13,West Bengal,South Dinajpur,27.0,manual_map
+Karnataka,Dakshina Kannada,karnataka,dakshin kannada,03,24,Karnataka,DAKSHINA KANNADA,27.0,exact_norm
+West Bengal,Darjiling,west bengal,darjiling,16,17,West Bengal,Darjeeling,27.0,manual_map
+Uttarakhand,Dehradun,uttarakhand,dehradun,15,05,Uttarakhand,Dehradun,27.0,exact_norm
+Uttar Pradesh,Deoria,uttar pradesh,deoria,13,41,Uttar Pradesh,Deoria,27.0,exact_norm
+Madhya Pradesh,Dewas,madhya pradesh,dewas,23,40,Madhya Pradesh,Dewas,27.0,exact_norm
+Chhattisgarh,Dhamtari,chhattisgarh,dhamtari,18,05,Chhattisgarh,Dhamtari,27.0,exact_norm
+Jharkhand,Dhanbad,jharkhand,dhanbad,07,09,Jharkhand,Dhanbad,27.0,exact_norm
+Madhya Pradesh,Dhar,madhya pradesh,dhar,23,38,Madhya Pradesh,Dhar,27.0,exact_norm
+Tamil Nadu,Dharmapuri,tamil nadu,dharmapuri,10,01,Tamil Nadu,Dharmapuri,27.0,exact_norm
+Karnataka,Dharwad,karnataka,dharwad,03,09,Karnataka,DHARWAD,27.0,exact_norm
+Odisha,Dhenkanal,odisha,dhenkanal,11,07,Orissa,Dhenkanal,27.0,exact_norm
+Maharashtra,Dhule,maharashtra,dhule,01,02,Maharashtra,Dhule,27.0,exact_norm
+Assam,Dibrugarh,assam,dibrugarh,06,07,Assam,Dibrugarh,27.0,exact_norm
+Tamil Nadu,Dindigul,tamil nadu,dindigul,10,27,Tamil Nadu,Dindigul,27.0,exact_norm
+Chhattisgarh,Durg,chhattisgarh,durg,18,07,Chhattisgarh,Durg,27.0,exact_norm
+NCT of Delhi,East Delhi,delhi,east delhi,26,03,Delhi,East,27.0,fuzzy_contain
+Andhra Pradesh,East Godavari,andhra pradesh,east godavari,02,04,Andhra Pradesh,East Godavari,27.0,exact_norm
+Madhya Pradesh,East Nimar,madhya pradesh,east nimar,23,10,Madhya Pradesh,Khandwa,27.0,manual_map
+Kerala,Ernakulam,kerala,ernakulam,04,02,Kerala,Ernakulam,27.0,exact_norm
+Tamil Nadu,Erode,tamil nadu,erode,10,24,Tamil Nadu,Erode,27.0,exact_norm
+Uttar Pradesh,Faizabad,uttar pradesh,faizabad,13,49,Uttar Pradesh,Faizabad,27.0,exact_norm
+Haryana,Faridabad,haryana,faridabad,14,05,Haryana,Faridabad,27.0,exact_norm
+Haryana,Fatehabad,haryana,fatehabad,14,15,Haryana,Fatehabad,27.0,exact_norm
+Uttar Pradesh,Firozabad,uttar pradesh,firozabad,13,29,Uttar Pradesh,Firozabad,27.0,exact_norm
+Karnataka,Gadag,karnataka,gadag,03,08,Karnataka,GADAG,27.0,exact_norm
+Gujarat,Gandhinagar,gujarat,gandhinagar,17,11,Gujarat,GANDHINAGAR,27.0,exact_norm
+Rajasthan,Ganganagar,rajasthan,ganganagar,09,07,Rajasthan,Ganganagar,27.0,exact_norm
+Odisha,Ganjam,odisha,ganjam,11,04,Orissa,Ganjam,27.0,exact_norm
+Uttar Pradesh,Gautam Buddha Nagar,uttar pradesh,gautam buddha nagar,13,20,Uttar Pradesh,Gautam Buddha Nagar,27.0,exact_norm
+Uttar Pradesh,Ghaziabad,uttar pradesh,ghaziabad,13,08,Uttar Pradesh,Ghaziabad,27.0,exact_norm
+Uttar Pradesh,Ghazipur,uttar pradesh,ghazipur,13,28,Uttar Pradesh,Ghazipur,27.0,exact_norm
+Jharkhand,Giridih,jharkhand,giridih,07,10,Jharkhand,Giridih,27.0,exact_norm
+Maharashtra,Gondiya,maharashtra,gondiya,01,11,Maharashtra,Gondia,27.0,manual_map
+Uttar Pradesh,Gorakhpur,uttar pradesh,gorakhpur,13,03,Uttar Pradesh,Gorakhpur,27.0,exact_norm
+Gujarat,Gujarat,gujarat,gujarat,,,,,,unmatched
+Karnataka,Gulbarga,karnataka,gulbarga,03,04,Karnataka,KALABURAGI,27.0,exact_norm
+Madhya Pradesh,Guna,madhya pradesh,guna,23,30,Madhya Pradesh,Guna,27.0,exact_norm
+Andhra Pradesh,Guntur,andhra pradesh,guntur,02,05,Andhra Pradesh,Guntur,27.0,exact_norm
+Haryana,Gurgaon,haryana,gurgaon,14,06,Haryana,Gurugram,27.0,exact_norm
+Madhya Pradesh,Gwalior,madhya pradesh,gwalior,23,44,Madhya Pradesh,Gwalior,27.0,exact_norm
+Rajasthan,Hanumangarh,rajasthan,hanumangarh,09,11,Rajasthan,Hanumangarh,27.0,exact_norm
+West Bengal,Haora,west bengal,haora,16,11,West Bengal,Howrah,27.0,manual_map
+Uttar Pradesh,Hardoi,uttar pradesh,hardoi,13,04,Uttar Pradesh,Hardoi,27.0,exact_norm
+Uttarakhand,Hardwar,uttarakhand,hardwar,15,09,Uttarakhand,Haridwar,27.0,manual_map
+Karnataka,Hassan,karnataka,hassan,03,23,Karnataka,HASSAN,27.0,exact_norm
+Uttar Pradesh,Hathras,uttar pradesh,hathras,13,65,Uttar Pradesh,Hathras,27.0,exact_norm
+Karnataka,Haveri,karnataka,haveri,03,11,Karnataka,HAVERI,27.0,exact_norm
+Haryana,Hisar,haryana,hisar,14,07,Haryana,Hisar,27.0,exact_norm
+Madhya Pradesh,Hoshangabad,madhya pradesh,hoshangabad,23,03,Madhya Pradesh,Hoshangabad,27.0,exact_norm
+West Bengal,Hugli,west bengal,hugli,16,02,West Bengal,Hooghly,27.0,manual_map
+Kerala,Idukki,kerala,idukki,04,07,Kerala,Idukki,27.0,exact_norm
+Madhya Pradesh,Indore,madhya pradesh,indore,23,47,Madhya Pradesh,Indore,27.0,exact_norm
+Madhya Pradesh,Jabalpur,madhya pradesh,jabalpur,23,01,Madhya Pradesh,Jabalpur,27.0,exact_norm
+Odisha,Jagatsinghapur,odisha,jagatsinghapur,11,14,Orissa,Jagatsinghpur,27.0,manual_map
+Rajasthan,Jaipur,rajasthan,jaipur,09,38,Rajasthan,Jaipur District,27.0,exact_norm
+Maharashtra,Jalgaon,maharashtra,jalgaon,01,03,Maharashtra,Jalgaon,27.0,exact_norm
+Maharashtra,Jalna,maharashtra,jalna,01,18,Maharashtra,Jalna,27.0,exact_norm
+Rajasthan,Jalor,rajasthan,jalor,09,21,Rajasthan,Jalore,27.0,fuzzy_contain
+West Bengal,Jalpaiguri,west bengal,jalpaiguri,16,04,West Bengal,Jalpaiguri,27.0,exact_norm
+Gujarat,Jamnagar,gujarat,jamnagar,17,23,Gujarat,Jamnagar,27.0,exact_norm
+Chhattisgarh,Janjgir-Champa,chhattisgarh,janjgir champa,18,18,Chhattisgarh,Janjgir,27.0,fuzzy_contain
+Uttar Pradesh,Jaunpur,uttar pradesh,jaunpur,13,12,Uttar Pradesh,Jaunpur,27.0,exact_norm
+Haryana,Jhajjar,haryana,jhajjar,14,08,Haryana,Jhajjar,27.0,exact_norm
+Rajasthan,Jhalawar,rajasthan,jhalawar,09,22,Rajasthan,Jhalawar,27.0,exact_norm
+Uttar Pradesh,Jhansi,uttar pradesh,jhansi,13,66,Uttar Pradesh,Jhansi,27.0,exact_norm
+Odisha,Jharsuguda,odisha,jharsuguda,11,12,Orissa,Jharsuguda,27.0,exact_norm
+Haryana,Jind,haryana,jind,14,09,Haryana,Jind,27.0,exact_norm
+Rajasthan,Jodhpur,rajasthan,jodhpur,09,28,Rajasthan,Jodhpur Metro,27.0,exact_norm
+Assam,Jorhat,assam,jorhat,06,11,Assam,Jorhat,27.0,exact_norm
+Gujarat,Junagadh,gujarat,junagadh,17,24,Gujarat,Junagadh,27.0,exact_norm
+Uttar Pradesh,Jyotiba Phule Nagar,uttar pradesh,jyotiba phule nagar,13,35,Uttar Pradesh,Jyotiba Phule Nagar,27.0,exact_norm
+Gujarat,Kachchh,gujarat,kachchh,17,26,Gujarat,kachchh at Bhuj,27.0,fuzzy_contain
+Haryana,Kaithal,haryana,kaithal,14,16,Haryana,Kaithal,27.0,exact_norm
+Assam,Kamrup,assam,kamrup,06,23,Assam,Kamrup,27.0,exact_norm
+Tamil Nadu,Kancheepuram,tamil nadu,kanchipuram,10,31,Tamil Nadu,Kancheepuram,27.0,exact_norm
+Himachal Pradesh,Kangra,himachal pradesh,kangra,05,02,Himachal Pradesh,Kangra,27.0,exact_norm
+Tamil Nadu,Kanniyakumari,tamil nadu,kanniyakumari,10,07,Tamil Nadu,Kanniyakumari,27.0,exact_norm
+Kerala,Kannur,kerala,kannur,04,03,Kerala,Kannur,27.0,exact_norm
+Uttar Pradesh,Kanpur Nagar,uttar pradesh,kanpur nagar,13,19,Uttar Pradesh,Kanpur Nagar,27.0,exact_norm
+Assam,Karimganj,assam,karimganj,06,12,Assam,Karimganj,27.0,exact_norm
+Haryana,Karnal,haryana,karnal,14,01,Haryana,Karnal,27.0,exact_norm
+Tamil Nadu,Karur,tamil nadu,karur,10,19,Tamil Nadu,Karur,27.0,exact_norm
+Madhya Pradesh,Katni,madhya pradesh,katni,23,34,Madhya Pradesh,Katni,27.0,exact_norm
+Odisha,Kendujhar,odisha,kendujhar,11,13,Orissa,Keonjhar,27.0,manual_map
+Gujarat,Kheda,gujarat,kheda,17,25,Gujarat,Kheda at Nadiad,27.0,fuzzy_contain
+Uttar Pradesh,Kheri,uttar pradesh,kheri,13,10,Uttar Pradesh,Lakhimpur,27.0,manual_map
+Odisha,Khordha,odisha,khordha,11,08,Orissa,Khurda,27.0,manual_map
+Himachal Pradesh,Kinnaur,himachal pradesh,kinnaur,05,09,Himachal Pradesh,Kinnaur,27.0,exact_norm
+Karnataka,Kodagu,karnataka,kodagu,03,25,Karnataka,KODAGU,27.0,exact_norm
+Karnataka,Kolar,karnataka,kolar,03,19,Karnataka,KOLAR,27.0,exact_norm
+Maharashtra,Kolhapur,maharashtra,kolhapur,01,34,Maharashtra,Kolhapur,27.0,exact_norm
+West Bengal,Kolkata,west bengal,kolkata,16,03,West Bengal,Calcutta,27.0,manual_map
+Kerala,Kollam,kerala,kollam,04,15,Kerala,Kollam,27.0,exact_norm
+Karnataka,Koppal,karnataka,koppal,03,07,Karnataka,KOPPAL,27.0,exact_norm
+Odisha,Koraput,odisha,koraput,11,06,Orissa,Koraput,27.0,exact_norm
+Rajasthan,Kota,rajasthan,kota,09,20,Rajasthan,Kota,27.0,exact_norm
+Kerala,Kottayam,kerala,kottayam,04,10,Kerala,Kottayam,27.0,exact_norm
+Kerala,Kozhikode,kerala,kozhikode,04,05,Kerala,Kozhikode,27.0,exact_norm
+Andhra Pradesh,Krishna,andhra pradesh,krishna,02,11,Andhra Pradesh,Krishna,27.0,exact_norm
+Tamil Nadu,Krishnagiri,tamil nadu,krishnagiri,10,26,Tamil Nadu,Krishnagiri,27.0,exact_norm
+Himachal Pradesh,Kullu,himachal pradesh,kullu,05,10,Himachal Pradesh,Kullu,27.0,exact_norm
+Andhra Pradesh,Kurnool,andhra pradesh,kurnool,02,10,Andhra Pradesh,Kurnool,27.0,exact_norm
+Haryana,Kurukshetra,haryana,kurukshetra,14,10,Haryana,Kurukshetra,27.0,exact_norm
+Uttar Pradesh,Kushinagar,uttar pradesh,kushinagar,13,34,Uttar Pradesh,Kushinagar,27.0,exact_norm
+Uttar Pradesh,Lalitpur,uttar pradesh,lalitpur,13,23,Uttar Pradesh,Lalitpur,27.0,exact_norm
+Maharashtra,Latur,maharashtra,latur,01,28,Maharashtra,Latur,27.0,exact_norm
+Uttar Pradesh,Lucknow,uttar pradesh,lucknow,13,24,Uttar Pradesh,Lucknow,27.0,exact_norm
+Tamil Nadu,Madurai,tamil nadu,madurai,10,15,Tamil Nadu,Madurai,27.0,exact_norm
+Haryana,Mahendragarh,haryana,mahendragarh,14,11,Haryana,Narnaul,27.0,manual_map
+Gujarat,Mahesana,gujarat,mahesana,17,15,Gujarat,Mahesana,27.0,exact_norm
+Uttar Pradesh,Mainpuri,uttar pradesh,mainpuri,13,14,Uttar Pradesh,Mainpuri,27.0,exact_norm
+Kerala,Malappuram,kerala,malappuram,04,11,Kerala,Malappuram,27.0,exact_norm
+Himachal Pradesh,Mandi,himachal pradesh,mandi,05,06,Himachal Pradesh,Mandi,27.0,exact_norm
+Madhya Pradesh,Mandsaur,madhya pradesh,mandsaur,23,35,Madhya Pradesh,Mandsaur,27.0,exact_norm
+Karnataka,Mandya,karnataka,mandya,03,22,Karnataka,MANDYA,27.0,exact_norm
+Uttar Pradesh,Mathura,uttar pradesh,mathura,13,53,Uttar Pradesh,Mathura,27.0,exact_norm
+Odisha,Mayurbhanj,odisha,mayurbhanj,11,26,Orissa,Mayurbhanj,27.0,exact_norm
+Uttar Pradesh,Meerut,uttar pradesh,meerut,13,06,Uttar Pradesh,Meerut,27.0,exact_norm
+Uttar Pradesh,Mirzapur,uttar pradesh,mirzapur,13,68,Uttar Pradesh,Mirzapur,27.0,exact_norm
+Uttar Pradesh,Moradabad,uttar pradesh,moradabad,13,54,Uttar Pradesh,Moradabad,27.0,exact_norm
+Maharashtra,Mumbai,maharashtra,mumbai,01,23,Maharashtra,Mumbai CMM Courts,27.0,fuzzy_contain
+Uttar Pradesh,Muzaffarnagar,uttar pradesh,muzaffarnagar,13,26,Uttar Pradesh,Muzaffarnagar,27.0,exact_norm
+Bihar,Muzaffarpur,bihar,muzaffarpur,08,38,Bihar,Muzaffarpur,27.0,exact_norm
+Karnataka,Mysore,karnataka,mysore,03,26,Karnataka,MYSURU,27.0,exact_norm
+Kerala,NA,kerala,na,04,16,Kerala,Wayanad,27.0,fuzzy_contain
+NCT of Delhi,NCT of Delhi,delhi,delhi,26,07,Delhi,New Delhi,27.0,fuzzy_contain
+Maharashtra,Nagpur,maharashtra,nagpur,01,09,Maharashtra,Nagpur,27.0,exact_norm
+Uttarakhand,Nainital,uttarakhand,nainital,15,01,Uttarakhand,Nainital,27.0,exact_norm
+Tamil Nadu,Namakkal,tamil nadu,namakkal,10,05,Tamil Nadu,Namakkal,27.0,exact_norm
+Maharashtra,Nanded,maharashtra,nanded,01,15,Maharashtra,Nanded,27.0,exact_norm
+Maharashtra,Nandurbar,maharashtra,nandurbar,01,01,Maharashtra,Nandurbar,27.0,exact_norm
+Gujarat,Narmada,gujarat,narmada,17,33,Gujarat,Narmada,27.0,exact_norm
+Maharashtra,Nashik,maharashtra,nashik,01,20,Maharashtra,Nashik,27.0,exact_norm
+Gujarat,Navsari,gujarat,navsari,17,32,Gujarat,Navsari,27.0,exact_norm
+Madhya Pradesh,Neemuch,madhya pradesh,neemuch,23,17,Madhya Pradesh,Neemuch,27.0,exact_norm
+Andhra Pradesh,Nellore,andhra pradesh,nellore,02,15,Andhra Pradesh,Nellore,27.0,exact_norm
+NCT of Delhi,New Delhi,delhi,new delhi,26,07,Delhi,New Delhi,27.0,exact_norm
+Tamil Nadu,Nilgiri,tamil nadu,nilgiri,10,16,Tamil Nadu,The Nilgiris,27.0,fuzzy_contain
+West Bengal,North 24 Parganas,west bengal,north 24 parganas,16,14,West Bengal,North  Twenty Four Parganas,27.0,manual_map
+Assam,North Cachar Hills,assam,north cachar hills,06,13,Assam,Cachar,27.0,fuzzy_contain
+NCT of Delhi,North Delhi,delhi,north delhi,26,04,Delhi,North,27.0,fuzzy_contain
+NCT of Delhi,North East Delhi,delhi,north east delhi,26,01,Delhi,North East,27.0,fuzzy_contain
+Goa,North Goa,goa,north goa,30,01,Goa,North Goa,27.0,exact_norm
+NCT of Delhi,North West Delhi,delhi,north west delhi,26,05,Delhi,North West,27.0,fuzzy_contain
+Maharashtra,Osmanabad,maharashtra,osmanabad,01,29,Maharashtra,Osmanabad,27.0,exact_norm
+Kerala,Palakkad,kerala,palakkad,04,08,Kerala,Palakkad,27.0,exact_norm
+Jharkhand,Palamu,jharkhand,palamu,07,17,Jharkhand,Daltonganj,27.0,manual_map
+Gujarat,Panch Mahals,gujarat,panch mahals,17,27,Gujarat,Panchmahal at Godhra,27.0,manual_map
+Haryana,Panchkula,haryana,panchkula,14,14,Haryana,Panchkula,27.0,exact_norm
+Haryana,Panipat,haryana,panipat,14,18,Haryana,Panipat,27.0,exact_norm
+West Bengal,Paschim Medinipur,west bengal,paschim medinipur,16,07,West Bengal,Paschim Medinpur,27.0,manual_map
+Gujarat,Patan,gujarat,patan,17,28,Gujarat,Patan,27.0,exact_norm
+Kerala,Pathanamthitta,kerala,pathanamthitta,04,12,Kerala,Pathanamthitta,27.0,exact_norm
+Bihar,Patna,bihar,patna,08,01,Bihar,Patna,27.0,exact_norm
+Uttarakhand,Pauri Garhwal,uttarakhand,pauri garhwal,15,02,Uttarakhand,Pauri Garhwal,27.0,exact_norm
+Uttar Pradesh,Pilibhit,uttar pradesh,pilibhit,13,13,Uttar Pradesh,Pilibhit,27.0,exact_norm
+Gujarat,Porbandar,gujarat,porbandar,17,36,Gujarat,Porbandar,27.0,exact_norm
+Andhra Pradesh,Prakasam,andhra pradesh,prakasam,02,17,Andhra Pradesh,Prakasham,27.0,manual_map
+Tamil Nadu,Pudukkottai,tamil nadu,pudukkottai,10,02,Tamil Nadu,Pudukkottai,27.0,exact_norm
+Maharashtra,Pune,maharashtra,pune,01,25,Maharashtra,Pune,27.0,exact_norm
+Bihar,Purba Champaran,bihar,purba champaran,08,10,Bihar,Motihari,27.0,manual_map
+West Bengal,Purba Medinipur,west bengal,purba medinipur,16,09,West Bengal,Purba Medinipur,27.0,exact_norm
+Jharkhand,Purbi Singhbhum,jharkhand,purbi singhbhum,07,11,Jharkhand,East Singhbhum at Jamshedpur,27.0,manual_map
+Odisha,Puri,odisha,puri,11,15,Orissa,Puri,27.0,exact_norm
+Uttar Pradesh,Rae Bareli,uttar pradesh,rae bareli,13,55,Uttar Pradesh,Raebareli,27.0,manual_map
+Karnataka,Raichur,karnataka,raichur,03,06,Karnataka,RAICHUR,27.0,exact_norm
+Chhattisgarh,Raigarh (CTG),chhattisgarh,raigarh ctg,18,06,Chhattisgarh,Raigarh,27.0,fuzzy_contain
+Maharashtra,Raigarh (MAH),maharashtra,raigarh mah,01,24,Maharashtra,Raigad,27.0,manual_map
+Chhattisgarh,Raipur,chhattisgarh,raipur,18,03,Chhattisgarh,Raipur,27.0,exact_norm
+Madhya Pradesh,Raisen,madhya pradesh,raisen,23,24,Madhya Pradesh,Raisen,27.0,exact_norm
+Madhya Pradesh,Rajgarh,madhya pradesh,rajgarh,23,14,Madhya Pradesh,Rajgarh,27.0,exact_norm
+Gujarat,Rajkot,gujarat,rajkot,17,16,Gujarat,RAJKOT,27.0,exact_norm
+Chhattisgarh,Rajnandgaon,chhattisgarh,rajnandgaon,18,10,Chhattisgarh,Rajnandgaon,27.0,exact_norm
+Rajasthan,Rajsamand,rajasthan,rajsamand,09,01,Rajasthan,Rajsamand,27.0,exact_norm
+Tamil Nadu,Ramanathapuram,tamil nadu,ramanathapuram,10,21,Tamil Nadu,Ramanathapuram,27.0,exact_norm
+Uttar Pradesh,Rampur,uttar pradesh,rampur,13,56,Uttar Pradesh,Rampur,27.0,exact_norm
+Jharkhand,Ranchi,jharkhand,ranchi,07,22,Jharkhand,Ranchi,27.0,exact_norm
+Madhya Pradesh,Ratlam,madhya pradesh,ratlam,23,42,Madhya Pradesh,Ratlam,27.0,exact_norm
+Maharashtra,Ratnagiri,maharashtra,ratnagiri,01,32,Maharashtra,Ratnagiri,27.0,exact_norm
+Madhya Pradesh,Rewa,madhya pradesh,rewa,23,46,Madhya Pradesh,Rewa,27.0,exact_norm
+Haryana,Rewari,haryana,rewari,14,17,Haryana,Rewari,27.0,exact_norm
+Haryana,Rohtak,haryana,rohtak,14,12,Haryana,Rohtak,27.0,exact_norm
+Gujarat,Sabar Kantha,gujarat,sabar kantha,17,29,Gujarat,Sabarkantha at Himmatnagar,27.0,manual_map
+Uttar Pradesh,Saharanpur,uttar pradesh,saharanpur,13,57,Uttar Pradesh,Saharanpur,27.0,exact_norm
+Tamil Nadu,Salem,tamil nadu,salem,10,12,Tamil Nadu,Salem,27.0,exact_norm
+Bihar,Samastipur,bihar,samastipur,08,03,Bihar,Samastipur,27.0,exact_norm
+Odisha,Sambalpur,odisha,sambalpur,11,11,Orissa,Sambalpur,27.0,exact_norm
+Maharashtra,Sangli,maharashtra,sangli,01,35,Maharashtra,Sangli,27.0,exact_norm
+Uttar Pradesh,Sant Ravidas Nagar,uttar pradesh,sant ravidas nagar,13,22,Uttar Pradesh,Bhadohi SR Nagar,27.0,manual_map
+Maharashtra,Satara,maharashtra,satara,01,31,Maharashtra,Satara,27.0,exact_norm
+Madhya Pradesh,Satna,madhya pradesh,satna,23,32,Madhya Pradesh,Satna,27.0,exact_norm
+Madhya Pradesh,Sehore,madhya pradesh,sehore,23,25,Madhya Pradesh,Sehore,27.0,exact_norm
+Madhya Pradesh,Shahdol,madhya pradesh,shahdol,23,11,Madhya Pradesh,Shahdol,27.0,exact_norm
+Uttar Pradesh,Shahjahanpur,uttar pradesh,shahjahanpur,13,58,Uttar Pradesh,Shahjahanpur,27.0,exact_norm
+Himachal Pradesh,Shimla,himachal pradesh,shimla,05,11,Himachal Pradesh,Shimla,27.0,exact_norm
+Karnataka,Shimoga,karnataka,shimoga,03,15,Karnataka,SHIVAMOGGA,27.0,exact_norm
+Assam,Sibsagar,assam,sibsagar,06,03,Assam,Sivasagar,27.0,manual_map
+Madhya Pradesh,Sidhi,madhya pradesh,sidhi,23,21,Madhya Pradesh,Sidhi,27.0,exact_norm
+Rajasthan,Sikar,rajasthan,sikar,09,35,Rajasthan,Sikar,27.0,exact_norm
+Maharashtra,Sindhudurg,maharashtra,sindhudurg,01,33,Maharashtra,Sindhudurg,27.0,exact_norm
+Himachal Pradesh,Sirmaur,himachal pradesh,sirmaur,05,03,Himachal Pradesh,Sirmaur,27.0,exact_norm
+Rajasthan,Sirohi,rajasthan,sirohi,09,26,Rajasthan,Sirohi,27.0,exact_norm
+Haryana,Sirsa,haryana,sirsa,14,02,Haryana,Sirsa,27.0,exact_norm
+Bihar,Sitamarhi,bihar,sitamarhi,08,31,Bihar,Sitamarhi,27.0,exact_norm
+Uttar Pradesh,Sitapur,uttar pradesh,sitapur,13,16,Uttar Pradesh,Sitapur,27.0,exact_norm
+Tamil Nadu,Sivaganga,tamil nadu,sivaganga,10,29,Tamil Nadu,Sivagangai,27.0,exact_norm
+Himachal Pradesh,Solan,himachal pradesh,solan,05,05,Himachal Pradesh,Solan,27.0,exact_norm
+Maharashtra,Solapur,maharashtra,solapur,01,30,Maharashtra,Solapur,27.0,exact_norm
+Uttar Pradesh,Sonbhadra,uttar pradesh,sonbhadra,13,60,Uttar Pradesh,Sonbhadra,27.0,exact_norm
+Haryana,Sonipat,haryana,sonipat,14,13,Haryana,Sonepat,27.0,manual_map
+Assam,Sonitpur,assam,sonitpur,06,06,Assam,Sonitpur,27.0,exact_norm
+West Bengal,South 24 Parganas,west bengal,south 24 parganas,16,20,West Bengal,South Twenty Four Parganas,27.0,manual_map
+NCT of Delhi,South Delhi,delhi,south delhi,26,10,Delhi,South,27.0,fuzzy_contain
+Goa,South Goa,goa,south goa,30,02,Goa,South Goa,27.0,exact_norm
+NCT of Delhi,South West Delhi,delhi,south west delhi,26,06,Delhi,South West,27.0,fuzzy_contain
+Andhra Pradesh,Srikakulam,andhra pradesh,srikakulam,02,19,Andhra Pradesh,Srikakulam,27.0,exact_norm
+Odisha,Sundargarh,odisha,sundargarh,11,16,Orissa,Sundargarh,27.0,exact_norm
+Gujarat,Surat,gujarat,surat,17,14,Gujarat,SURAT,27.0,exact_norm
+Gujarat,Surendranagar,gujarat,surendranagar,17,30,Gujarat,Surendranagar,27.0,exact_norm
+Maharashtra,Thane,maharashtra,thane,01,21,Maharashtra,Thane,27.0,exact_norm
+Tamil Nadu,Thanjavur,tamil nadu,thanjavur,10,17,Tamil Nadu,Thanjavur,27.0,exact_norm
+Tamil Nadu,Theni,tamil nadu,theni,10,04,Tamil Nadu,Theni,27.0,exact_norm
+Tamil Nadu,Thiruvallur,tamil nadu,thiruvallur,10,32,Tamil Nadu,Tiruvallur,27.0,manual_map
+Kerala,Thiruvananthapuram,kerala,trivandrum,04,09,Kerala,Thiruvananthapuram,27.0,exact_norm
+Tamil Nadu,Thoothukkudi,tamil nadu,thoothukudi,10,09,Tamil Nadu,Thoothukudi,27.0,exact_norm
+Kerala,Thrissur,kerala,thrissur,04,04,Kerala,Thrissur,27.0,exact_norm
+Madhya Pradesh,Tikamgarh,madhya pradesh,tikamgarh,23,36,Madhya Pradesh,Tikamgarh,27.0,exact_norm
+Assam,Tinsukia,assam,tinsukia,06,02,Assam,Tinsukia,27.0,exact_norm
+Tamil Nadu,Tiruchirappalli,tamil nadu,trichy,10,08,Tamil Nadu,Tiruchirappalli,27.0,exact_norm
+Tamil Nadu,Tirunelveli,tamil nadu,tirunelveli,10,03,Tamil Nadu,Tirunelveli,27.0,exact_norm
+Karnataka,Tumkur,karnataka,tumkur,03,18,Karnataka,TUMAKURU,27.0,exact_norm
+Rajasthan,Udaipur,rajasthan,udaipur,09,09,Rajasthan,Udaipur,27.0,exact_norm
+Uttarakhand,Udham Singh Nagar,uttarakhand,udham singh nagar,15,04,Uttarakhand,Udham Singh Nagar,27.0,exact_norm
+Karnataka,Udupi,karnataka,udupi,03,16,Karnataka,UDUPI,27.0,exact_norm
+Madhya Pradesh,Ujjain,madhya pradesh,ujjain,23,45,Madhya Pradesh,Ujjain,27.0,exact_norm
+Himachal Pradesh,Una,himachal pradesh,una,05,04,Himachal Pradesh,Una,27.0,exact_norm
+Uttar Pradesh,Unnao,uttar pradesh,unnao,13,62,Uttar Pradesh,Unnao,27.0,exact_norm
+Karnataka,Uttara Kannada,karnataka,uttar kannada,03,10,Karnataka,UTTARA KANNADA,27.0,exact_norm
+Gujarat,Vadodara,gujarat,vadodara,17,31,Gujarat,Vadodara,27.0,exact_norm
+Bihar,Vaishali,bihar,vaishali,08,39,Bihar,Vaishali,27.0,exact_norm
+Gujarat,Valsad,gujarat,valsad,17,35,Gujarat,Valsad,27.0,exact_norm
+Uttar Pradesh,Varanasi,uttar pradesh,varanasi,13,27,Uttar Pradesh,Varanasi,27.0,exact_norm
+Tamil Nadu,Vellore,tamil nadu,vellore,10,11,Tamil Nadu,Vellore,27.0,exact_norm
+Madhya Pradesh,Vidisha,madhya pradesh,vidisha,23,28,Madhya Pradesh,Vidisha,27.0,exact_norm
+Tamil Nadu,Viluppuram,tamil nadu,viluppuram,10,10,Tamil Nadu,Viluppuram,27.0,exact_norm
+Tamil Nadu,Virudhunagar,tamil nadu,virudhunagar,10,14,Tamil Nadu,Virudhunagar,27.0,exact_norm
+Andhra Pradesh,Visakhapatnam,andhra pradesh,visakhapatnam,02,20,Andhra Pradesh,Visakapatnam,27.0,manual_map
+Andhra Pradesh,Vizianagaram,andhra pradesh,vizianagaram,02,21,Andhra Pradesh,Vizianagaram,27.0,exact_norm
+Maharashtra,Wardha,maharashtra,wardha,01,08,Maharashtra,Wardha,27.0,exact_norm
+NCT of Delhi,West Delhi,delhi,west delhi,26,09,Delhi,West,27.0,fuzzy_contain
+Andhra Pradesh,West Godavari,andhra pradesh,west godavari,02,23,Andhra Pradesh,West Godavari,27.0,exact_norm
+Madhya Pradesh,West Nimar,madhya pradesh,west nimar,23,16,Madhya Pradesh,Mandleshwar,27.0,manual_map
+Andhra Pradesh,Y.S.R,andhra pradesh,y s r,02,07,Andhra Pradesh,Kadapa,27.0,manual_map
+Haryana,Yamunanagar,haryana,yamunanagar,14,20,Haryana,Yamunanagar,27.0,exact_norm
+Maharashtra,Yavatmal,maharashtra,yavatmal,01,14,Maharashtra,Yavatmal,27.0,exact_norm
